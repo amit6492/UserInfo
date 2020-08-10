@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">User Info</string>
+    <string name="conection_error_msg">Please Check your Internet Connection and try again!!!</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="gender">Gender:</string>
+</resources>
